@@ -30,6 +30,8 @@ lint:
 
 all: install lint test
 
+all: install lint test
+
 validate-circleci:
     circleci config process .circleci/config.yml
 
