@@ -86,6 +86,8 @@ $ docker push 073492515851.dkr.ecr.us-east-1.amazonaws.com/audacity:latest
 
 ## You will now find image tag and aws Url on aws ECR console
 
+![pushed image](https://user-images.githubusercontent.com/4149567/89220228-cf6c1880-d596-11ea-9213-c3ebbb6a035c.jpg)
+
 
 
 
