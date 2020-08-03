@@ -20,3 +20,5 @@
  #### Run `make install` to install the necessary dependencies: Make install will run the Makefile.
  
  * $ make install
+ 
+ #### install any dependencies in requirements.txt
