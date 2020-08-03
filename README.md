@@ -32,6 +32,19 @@
  
  ![makeinstall](https://user-images.githubusercontent.com/4149567/89211539-9d9f8580-d587-11ea-9075-9b88654968df.jpg)
  
+#### Run Flask app.py application
+
+  * $ export FLASK_APP=app.py
+  * $ flask run
+
+ ## Note:The Output of App will be run in a browser.
+ 
+ * Serving Flask app "app.py"
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit) 
  
 
 
