@@ -37,7 +37,7 @@
   * $ export FLASK_APP=app.py
   * $ flask run
 
- ## Note:The Output of App will be run in a browser.
+ ## Note:  The Output of App will be run in a browser.
  
  * Serving Flask app "app.py"
  * Environment: production
