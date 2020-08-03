@@ -9,3 +9,10 @@
 
 ![EC2 Inst](https://user-images.githubusercontent.com/4149567/89208938-f587bd80-d582-11ea-8ad5-c2ae43f917ae.jpg)
 
+
+## Setup the Environment
+
+* Create a virtualenv and activate it
+* Run `make install` to install the necessary dependencies
+### python3 -m venv ~/devops
+### source ~/devops/bin/activate
