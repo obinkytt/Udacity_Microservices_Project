@@ -52,6 +52,7 @@
  
  ### Doker Build
  #### We will now build the Docker image
+  * $ docker build --tag=app .
  
 
 
