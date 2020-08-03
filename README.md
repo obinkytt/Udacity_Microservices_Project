@@ -1,6 +1,52 @@
 ## Udacity Microservices Project
 ##### This project tests your ability to operationalize a Python flask app—in a provided file, app.py—that serves out predictions (inference) about housing prices through API calls
 
+
+## Setup the Environment
+
+* Create a virtualenv and activate it
+* Run `make install` to install the necessary dependencies
+
+### Running `app.py`
+
+#### Standalone:
+`app.py` contains the web app built using flask framework.
+
+`python app.py`
+
+#### Run in Docker:  
+`run_docker.sh` contains the script to run the app in the docker.
+
+`./run_docker.sh`
+
+#### Run in Kubernetes: 
+`run_kubernetes.sh` contains the script to run app in the Kubernetes.
+
+`./run_kubernetes.sh`
+
+### Verify that application is running
+`make_prediction.sh` contains the script to check the predictions.
+
+`./make_prediction.sh`
+
+### Upload to Docker Hub
+`upload_docker.sh` contains the script to upload the docker image to the Docker Hub.
+
+`./upload_docker.sh`
+
+### Kubernetes Steps
+
+* Setup and Configure Docker locally
+* Setup and Configure Kubernetes locally
+* Create Flask app in Container
+* Run via kubectl
+
+### Kubernetes Clean Up
+- `kubectl delete deployment.apps/development`
+- `kubectl delete svc development`
+
+
+
 ##### After serveral attempt to build this project, I decided to use AWS Cloud9 to build a docker image and pushed it to AWS ECR. I used the student starter AWS Console with no cost.
 
 ##### I tried using Windows 10 but could not install Docker because HyperV and VMware Compatibility issues. I later tried MacOS Virtual Machine on my Windows 10 Pc. I was stuck on docker build error. I finally decided to use aws Cloud9 which was very easy to use. 
