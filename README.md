@@ -53,6 +53,8 @@
  ### Doker Build
  #### We will now build the Docker image
   * $ docker build --tag=app .
+  
+  ![docbuild](https://user-images.githubusercontent.com/4149567/89215798-e0b12700-d58e-11ea-9010-f601d3acaff4.jpg)
  
 
 
