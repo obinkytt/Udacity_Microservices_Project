@@ -27,3 +27,8 @@
  
  
  #### install any dependencies in requirements.txt
+ * Flask
+ * numpy
+ * pandas
+ * scikit-learn==0.20.2
+ * pylint
