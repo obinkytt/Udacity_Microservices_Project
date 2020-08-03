@@ -23,5 +23,7 @@
  
  ### Make Install snapshot
  
+ ![EC2 Inst](https://user-images.githubusercontent.com/4149567/89208938-f587bd80-d582-11ea-8ad5-c2ae43f917ae.jpg)
+ 
  
  #### install any dependencies in requirements.txt
