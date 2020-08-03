@@ -76,6 +76,9 @@
 
 ##### This will build a new image from Docker to ECR
 
+![ecr build](https://user-images.githubusercontent.com/4149567/89218850-608dc000-d594-11ea-8a7e-ae714e6f1931.jpg)
+
+
 
 
  
