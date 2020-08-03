@@ -26,7 +26,8 @@
  ![makeinstall](https://user-images.githubusercontent.com/4149567/89211539-9d9f8580-d587-11ea-9075-9b88654968df.jpg)
  
  
- ### install any dependencies in requirements.txt
+
+### install any dependencies in requirements.txt
  * Flask
  * numpy
  * pandas
