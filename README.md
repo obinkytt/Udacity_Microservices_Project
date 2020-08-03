@@ -64,6 +64,9 @@
  
    * $ docker image ls
 
+##  Now we will push the image to aws ECR
+### Create ECR Environment
+
  
 
 
