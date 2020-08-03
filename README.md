@@ -14,5 +14,5 @@
 
 * Create a virtualenv and activate it
 * Run `make install` to install the necessary dependencies
-### python3 -m venv ~/devops
-### source ~/devops/bin/activate
+#### python3 -m venv ~/devops
+#### source ~/devops/bin/activate
