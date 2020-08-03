@@ -74,6 +74,10 @@
 * $ aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 073492515851.dkr.ecr.us-east-1.amazonaws.com
 * $ docker build -t audacity .
 
+##### This will build a new image from Docker to ECR
+
+
+
  
 
 
