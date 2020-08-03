@@ -17,4 +17,6 @@
  * $ python3 -m venv ~/devops
  * $ source ~/devops/bin/activate
  
- #### Run `make install` to install the necessary dependencies
+ #### Run `make install` to install the necessary dependencies: Make install will run the Makefile.
+ 
+ * $ make install
