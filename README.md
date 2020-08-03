@@ -21,4 +21,7 @@
  
  * $ make install
  
+ ### Make Install snapshot
+ 
+ 
  #### install any dependencies in requirements.txt
