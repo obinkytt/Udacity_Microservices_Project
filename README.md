@@ -60,7 +60,9 @@
  
  ![buildsuccesfully](https://user-images.githubusercontent.com/4149567/89215996-3dacdd00-d58f-11ea-963b-8d0c96ae57b4.jpg)
  
- ### List Doker Image
+ ### List Doker Images
+ 
+   * $ docker image ls
 
  
 
