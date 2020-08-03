@@ -63,8 +63,11 @@
  ### List Doker Images
  
    * $ docker image ls
+   
+## CircleCi and Hadolint
+#### I tried to istall CircleCI locally on Cloud9 and I could not make to work. And hadolint did not run. I have to figure it out later because of time constraint to submit this project.
 
-##  Now we will push the image to aws ECR
+#  Now we will push the image to aws ECR
 ### Create ECR Environment
 
  
