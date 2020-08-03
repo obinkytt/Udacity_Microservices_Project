@@ -37,7 +37,7 @@
   * $ export FLASK_APP=app.py
   * $ flask run
 
- ## Note:  The Output of App will be run in a browser.
+ ## Note:  The Output of App will be run in a browser in a localhost on the EC2 linux instance.
  
  * Serving Flask app "app.py"
  * Environment: production
@@ -45,7 +45,7 @@
    Use a production WSGI server instead.
  * Debug mode: off
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit) 
- *This will not run here. It will run only on localhost
+ * This will not run here. It will run only on localhost
  
 
 
