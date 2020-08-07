@@ -10,7 +10,7 @@ pipeline {
                  '''
              }
          }
-         stage('Lint HTML') {
+         stage('Lint my.py') {
               steps {
                   sh 'tidy -q -e *.html'
               }
